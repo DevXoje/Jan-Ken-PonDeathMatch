@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Sprites/pixel-speech-bubblez-favicon.png" type="Texture" id=1]
+
+[node name="weapon_container" type="Sprite"]
+scale = Vector2( 3, 3 )
+texture = ExtResource( 1 )
+offset = Vector2( 0, -8 )
